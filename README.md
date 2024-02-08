@@ -16,4 +16,5 @@ In this project we build a supervised machine learning model to forecast the dis
 - Residuals analysis (aka error analysis)
 
 **Link to project:**
+
 Please follow this [link](https://nbviewer.org/github/vzinkovski/forecasting_cot_managed_money/blob/main/forecasting_cot_managed_money.ipynb) to view the project.
