@@ -15,4 +15,4 @@ In this project we build a supervised machine learning model to forecast the dis
 - RMSE and MAPE as performance metrics
 - Residuals analysis (aka error analysis)
 
-*You can find the project at the top of this page or by following this [link](https://github.com/vzinkovski/forecasting_trading_futures_ml_ensembles/blob/main/forecasting_trading_soybean_futures_ml_ensembles.ipynb)*
+*You can find the project at the top of this page or by following this [link](https://github.com/vzinkovski/forecasting_cot_managed_money/blob/main/forecasting_cot_managed_money.ipynb)*
