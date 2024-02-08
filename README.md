@@ -15,5 +15,5 @@ In this project we build a supervised machine learning model to forecast the dis
 - RMSE and MAPE as performance metrics
 - Residuals analysis (aka error analysis)
 
-<br></br>
-*You can find the project at the top of this page or by following this [link](https://nbviewer.org/github/vzinkovski/forecasting_cot_managed_money/blob/main/forecasting_cot_managed_money.ipynb)*
+**Link to project:**
+Please follow this [link](https://nbviewer.org/github/vzinkovski/forecasting_cot_managed_money/blob/main/forecasting_cot_managed_money.ipynb) to view the project.
