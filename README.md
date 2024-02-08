@@ -14,3 +14,5 @@ In this project we build a supervised machine learning model to forecast the dis
 - Using a naive forecast as the benchmark for model comparison
 - RMSE and MAPE as performance metrics
 - Residuals analysis (aka error analysis)
+
+*You can find the project at the top of this page or by following this [link](https://github.com/vzinkovski/forecasting_trading_futures_ml_ensembles/blob/main/forecasting_trading_soybean_futures_ml_ensembles.ipynb)*
