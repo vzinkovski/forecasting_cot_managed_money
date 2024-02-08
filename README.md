@@ -4,6 +4,8 @@ In this project we build a supervised machine learning model to forecast the dis
 
 Please follow this [link](https://nbviewer.org/github/vzinkovski/forecasting_cot_managed_money/blob/main/forecasting_cot_managed_money.ipynb) to view the project.
 
+---
+
 **Key themes covered:**
 - Introduction to the Commitment of Traders report
 - Cointegrated agricultural commodities
